@@ -31,7 +31,7 @@ enableEmoji: true
 params:
   
   # Imagen de fondo
-  background: "images/site/fondo5.jpg"
+  background: "images/site/background.jpeg"
  
   # Link del repositorio de Github
   gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
