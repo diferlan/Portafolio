@@ -3,7 +3,7 @@
 baseURL: https://naomipadillam.github.io./
  
 languageCode: en-us
-title: "Naomi Padilla"
+title: "Diego Landeros"
 theme: "toha"
  
 # Múltiples idiomas, aquí puedes definir qué idiomas tendrás en tu 
@@ -31,7 +31,7 @@ enableEmoji: true
 params:
   
   # Imagen de fondo
-  background: "images/site/fondo4.jpg"
+  background: "images/site/fondo5.jpg"
  
   # Link del repositorio de Github
   gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
